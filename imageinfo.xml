@@ -1,0 +1,56 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 18:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 16:17:10" width="12px" height="12px">
+</image>
+<image path="images/fig1.png" filesize="2661" filedate="2011-02-03 21:14:18" width="256px" height="98px">
+</image>
+<image path="images/fig10.png" filesize="31797" filedate="2011-02-02 22:41:45" width="720px" height="305px">
+</image>
+<image path="images/fig11.png" filesize="15236" filedate="2011-02-02 22:53:36" width="274px" height="579px">
+</image>
+<image path="images/fig12.png" filesize="19714" filedate="2011-02-03 20:29:55" width="548px" height="520px">
+</image>
+<image path="images/fig13-14.png" filesize="11108" filedate="2011-02-03 20:47:09" width="225px" height="600px">
+</image>
+<image path="images/fig15.png" filesize="9494" filedate="2011-02-02 22:49:04" width="389px" height="469px">
+</image>
+<image path="images/fig16.png" filesize="11369" filedate="2011-02-03 20:49:45" width="433px" height="400px">
+</image>
+<image path="images/fig17.png" filesize="22230" filedate="2011-02-03 20:44:08" width="404px" height="440px">
+</image>
+<image path="images/fig18-19-21-24.png" filesize="24119" filedate="2011-02-03 20:52:45" width="481px" height="344px">
+</image>
+<image path="images/fig2.png" filesize="11140" filedate="2010-10-30 14:45:41" width="596px" height="400px">
+</image>
+<image path="images/fig20.png" filesize="7615" filedate="2011-02-02 23:01:46" width="83px" height="420px">
+</image>
+<image path="images/fig22.png" filesize="24316" filedate="2011-02-03 20:55:50" width="554px" height="366px">
+</image>
+<image path="images/fig23.png" filesize="19327" filedate="2011-02-03 21:00:15" width="424px" height="592px">
+</image>
+<image path="images/fig25.png" filesize="25777" filedate="2011-02-02 22:56:06" width="288px" height="440px">
+</image>
+<image path="images/fig3.jpg" filesize="84614" filedate="2010-10-30 14:50:07" width="412px" height="720px">
+</image>
+<image path="images/fig4.png" filesize="42447" filedate="2010-12-06 20:41:10" width="527px" height="343px">
+</image>
+<image path="images/fig5.png" filesize="29892" filedate="2010-12-06 20:47:35" width="720px" height="343px">
+</image>
+<image path="images/fig6.png" filesize="6986" filedate="2010-12-06 20:49:52" width="441px" height="182px">
+</image>
+<image path="images/fig7.png" filesize="8153" filedate="2010-12-06 20:53:04" width="184px" height="295px">
+</image>
+<image path="images/fig8.png" filesize="51141" filedate="2010-12-06 20:57:10" width="290px" height="512px">
+</image>
+<image path="images/fig9.png" filesize="57871" filedate="2010-12-06 21:02:55" width="558px" height="444px">
+</image>
+<image path="images/kaft.jpg" filesize="94968" filedate="2009-08-01 23:01:04" width="465px" height="720px">
+</image>
+<image path="images/titelpagina.gif" filesize="9993" filedate="2009-08-01 23:08:19" width="427px" height="720px">
+</image>
+<image path="images/titelpagina.png" filesize="15260" filedate="2009-08-02 20:19:52" width="427px" height="720px">
+</image>
+</images>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Handboek voor bijenhouders</dc:title>
+      <dc:creator>J. Dirks</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2010-12-07</dc:publisher>
+      <dc:date>2010-12-07</dc:date>
+      <dc:rights>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie bij dit eBoek of on-line op www.gutenberg.org.
+Dit eBoek is geproduceerd door Jeroen Hellingman en het on-line gedistribueerd correctieteam op www.pgdp.net.
+De scans van dit boek zijn beschikbaar in het Internet Archief.
+</dc:rights>
+      <dc:subject>Bees</dc:subject>
+      <dc:description>Een aardig boekje over bijen en bijenhouden uit 1861.</dc:description>
+      <dc:identifier>pg:34590</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
