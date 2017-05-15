@@ -71,7 +71,15 @@
 <div1 id=cover type=Cover>
 
 
-<p><figure id=cover-image rend="image(images/kaft.jpg)">
+<p><figure id=cover-image rend="image(images/new-cover.jpg)">
+<figDesc>Nieuw ontworpen voorkant.</figDesc>
+</figure>
+
+
+<div1 id=cover-orig type=Cover>
+
+
+<p><figure id=cover-image-orig rend="image(images/kaft.jpg)">
 <figDesc>Oorspronkelijke voorkant.</figDesc>
 </figure>
 
